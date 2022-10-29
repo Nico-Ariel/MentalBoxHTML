@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<BODY BGCOLOR="#FFFFFF">
+<head>
+<CENTER>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPj3nUouU&#x2F;view?embed">
+  </iframe>
+</div>
+</CENTER>
+
+<title>MentalBox</title>
+</head>
+<body>
+
+<center><h1><B>¿EL BOXEO ES TAN DAÑINO COMO LA MAYORÍA LO CONOCE?</B></center></h1>
+
+<center>
+<table border cellpadding="20">
+<meta charset="utf-8">
+<tr>
+<td bgcolor="FF0000" class="selected"><a href="C:\Users\nagar\Documents\GitHub\MentalBoxHTML\index.html"><b>INICIO</b>
+<td bgcolor="000000" class="selected"><a href=""><b>HISTORIAS DE BOXEADORES</b>
+<td bgcolor="FF0000" class="selected"><a href="C:\Users\nagar\Documents\GitHub\MentalBoxHTML\Otras paginas\HTMLpaginabox(Nosotros).html"><b>QUIENES SOMOS</b>
+</tr>
+</table>
+</center>
+
+<hr>
+<hr>
+
+<CENTER>
+<img src="https://resizer.glanacion.com/resizer/V1WdU_oBAJ97vN2hwK9kef4tcsM=/1200x800/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UNUI3JACYVBUFEYQSY5IL2CWCY.jpg" width="250" height="150">
+<p><b>Nicolino Felipe Locche</b>, apodado como "el intocable" nació el 2 de septiembre de 1939 en Tunuyán, Mendoza. Fue un boxeador argentino, conocido por su buen trato con la gente y su humildad, además considerado como el boxeador con mejores habilidades defensivas de todos los tiempos.</p>
+<p>
+Se consagró campeón mundial en la categoría peso superligero ante Takeshi Fuji, el 12 de diciembre de 1968, en Tokio, reteniendo el título hasta 1972. Su fallecimiento ocurrió el 7 de septiembre de 2005 en las Heras, Mendoza.</p>
+</CENTER>
+
+<hr>
+<hr>
+
+
+<CENTER>
+<img src="https://www.serargentino.com/public/images/2019/10/monzon-773x458.jpeg" width="250" height="150">
+<p>
+<b>Carlos Roque Monzón</b>, apodado como "la escopeta", nació el 7 de agosto de 1942 en San Javier. Con unas pocas pertenencias en una bolsa de arpillera, Monzón arribó al club Unión en Santa Fe donde se entrenó y formó para ser un gran boxeador. </p>
+<p>Logró alcanzar el título de campeón mundial de la categoría mediano a fines de 1970 y lo retuvo hasta su retiro, en 1977. Falleció en un accidente automovilístico el 8 de enero de 1995 en Los Cerrillos.
+ </p>
+ </CENTER>
+
+<hr>
+<hr>
+
+<CENTER>
+<img src="https://i.ytimg.com/vi/UfmiyE_0oe8/maxresdefault.jpg" width="250" height="150">
+<p>
+<b>Sergio Martínez</b>, apodado cómo "la maravilla" martínez, nació el 21 de febrero de 1975 en Buenos Aires, Argentina. De origen humilde y con una historia de superación que se prolonga hasta la fecha, este boxeador profesional argentino fue campeón mundial en dos categorías de peso, ganándose el cariño y agrado del público.</p>
+ </CENTER>
+ <hr>
+ <hr>
+
+</body>
+</html>

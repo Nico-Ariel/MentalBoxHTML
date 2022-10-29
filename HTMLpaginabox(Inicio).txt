@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<BODY BGCOLOR="#FFFFFF">
+<head>
+<CENTER>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPj3nUouU&#x2F;view?embed">
+  </iframe>
+</div>
+</CENTER>
+
+<title>MentalBox</title>
+</head>
+<body>
+
+<center><h1><B>¿EL BOXEO ES TAN DAÑINO COMO LA MAYORÍA LO CONOCE?</B></center></h1>
+
+<center>
+<table border cellpadding="20">
+<meta charset="utf-8">
+<tr>
+<td bgcolor="000000" class="selected"><a href=""><b>INICIO</b>
+<td bgcolor="FF0000" class="selected"><a href="C:\Users\nagar\Documents\GitHub\MentalBoxHTML\Otras paginas\HTMLpaginabox(Historias).html"><b>HISTORIAS DE BOXEADORES</b>
+<td bgcolor="FF0000" class="selected"><a href="C:\Users\nagar\Documents\GitHub\MentalBoxHTML\Otras paginas\HTMLpaginabox(Nosotros).html"><b>QUIENES SOMOS</b>
+</tr>
+</table>
+</center>
+
+<p>El <b>boxeo</b> es un deporte de contacto en donde dos contrincantes se dan golpes el uno al otro en un cuadrilátero utilizando solamente las manos, principalmente los puños, donde el objetivo es, mediante los golpes, derrotar a tu rival mediante el cansancio físico o noquéandolo para ganar la pelea.
+</p>
+<p>
+Esa definición es muy poco amigable y da a entender que es algo peligroso. Pero nosotros en esta página te vamos a contar que el boxeo no es solo golpes, hay una preparación física y mental que ayuda mucho a nuestro cuerpo. </p>
+<p>
+Para empezar, hay que admitir que este deporte <B>tiene sus contras</B>, por ejemplo:
+</p>
+<UL>
+	<LI>Lesiones menores
+	<LI>Lesiones graves
+	<LI>Oposición médica al boxeo
+	<LI>Lesiones en la cabeza
+	<LI>Puede dejar moretones y traumas repetidos
+</UL>
+
+<p>
+De todas formas, también están las <B>cosas buenas</B> que deja la práctica del boxeo, las cuales pueden ser:
+</p>
+<UL>
+	<LI>El desarrollo de un cuerpo flexible y saludable
+	<LI>Reducción del estrés gracias a los golpes
+	<LI>Aumento de agilidad, reflejos y elasticidad
+	<LI>Quema calorías
+	<LI>Favorece el equilibrio mental
+</UL>
+
+<hr>
+
+<p>El video a continuación muestra beneficios más detallados que deja este deporte, acompañado de fragmentos de la práctica del mismo.
+</p>
+<CENTER>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFPjyU7zDk&#x2F;watch?embed">
+  </iframe>
+</div>
+</CENTER>
+
+<CENTER>
+<div style="position: relative; width: 50.5%; height: 0; padding-top: 76.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+
+src="https://editor.p5js.org/Nicoooooo/full/pqkyWkDPz">
+</iframe>
+</div>
+</CENTER>
+
+
+</body>
+</html>
